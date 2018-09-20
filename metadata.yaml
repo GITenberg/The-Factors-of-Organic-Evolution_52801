@@ -1,0 +1,26 @@
+_repo: The-Factors-of-Organic-Evolution_52801
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Spencer, Herbert
+    birthdate: 1820
+    deathdate: 1903
+    gutenberg_agent_id: '1887'
+    url: http://www.gutenberg.org/2009/agents/1887
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Spencer
+description: ''
+gutenberg_issued: '2016-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52801'
+  lccn: 06022509
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evolution'
+- !lcc 'QH'
+- GITenberg
+title: The Factors of Organic Evolution
+url: http://www.gutenberg.org/ebooks/52801
